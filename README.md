@@ -1,7 +1,7 @@
 ```markdown
 # 🔒 可配置网络加密和解密系统的设计与实现 - 毕业设计项目
 
-> 基于Python的多层加密文件传输系统，合肥师范学院本科毕业设计
+>可配置网络加密和解密系统的设计与实现，合肥师范学院本科毕业设计
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
