@@ -71,7 +71,7 @@ python client_gui.py
 
 📂 项目结构
 text
-SecureFileTransferSystem/
+TCPFileTransfer/
 ├── client_gui.py          # 客户端主界面
 ├── web_server.py          # 服务端主程序
 ├── hybrid_engine.py       # 混合加密引擎
